@@ -6,7 +6,7 @@ This repository contains a Jupyter Notebook for predicting house prices using a 
 
 - `train.csv`: Training data containing features and target variable `SalePrice`.
 - `test.csv`: Test data for which predictions need to be made.
-- `House_Prices_Prediction.ipynb`: Jupyter Notebook with all steps for data preprocessing, EDA, and modeling.
+- `code.ipynb`: Jupyter Notebook with all steps for data preprocessing, EDA, and modeling.
 - `README.md`: This file, providing an overview of the repository.
 
 ## Requirements
@@ -23,7 +23,7 @@ This repository contains a Jupyter Notebook for predicting house prices using a 
 
 1. Clone the repository and navigate to the project directory.
 2. Install the required libraries using `pip install -r requirements.txt`.
-3. Open the `House_Prices_Prediction.ipynb` notebook in Jupyter Notebook.
+3. Open the `code.ipynb` notebook in Jupyter Notebook.
 4. Run the cells sequentially to preprocess the data, perform exploratory data analysis, train the Linear Regression model, and make predictions on the test set.
 5. The predictions for the test set will be saved to `submission.csv`.
 
