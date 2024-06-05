@@ -56,6 +56,4 @@ This repository contains a Jupyter Notebook for predicting house prices using a 
 - Generate predictions for the test data.
 - Save the predictions to `submission.csv`.
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
